@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root><elements >< ID/name, Description/summary, Environment, Console logs, Source URL, Visual proof, Steps to reproduce, Expected vs. actual results, Severity, Priority ></elements >
+</root>
